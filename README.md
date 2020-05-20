@@ -1,1 +1,1 @@
-https://git.heroku.com/peaceful-stream-75018.git
+https://peaceful-stream-75018.herokuapp.com/
