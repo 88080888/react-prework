@@ -116,7 +116,31 @@ const columns = [
   {
     id: 'column-4',
     listId: 'list-2',
-    title: 'Strange column',
+    title: 'Vegetables&fruits',
+    icon: 'question',
+  },
+  {
+    id: 'column-5',
+    listId: 'list-2',
+    title: 'Meat',
+    icon: 'question',
+  },
+  {
+    id: 'column-6',
+    listId: 'list-2',
+    title: 'Dairy',
+    icon: 'question',
+  },
+  {
+    id: 'column-7',
+    listId: 'list-3',
+    title: 'Wife',
+    icon: 'question',
+  },
+  {
+    id: 'column-8',
+    listId: 'list-3',
+    title: 'Husband',
     icon: 'question',
   },
 ];
@@ -151,6 +175,41 @@ const cards = [
     id: 'card-6',
     columnId: 'column-3',
     title: 'Skyrim',
+  },
+  {
+    id: 'card-7',
+    columnId: 'column-4',
+    title: 'Oranges',
+  },
+  {
+    id: 'card-8',
+    columnId: 'column-4',
+    title: 'Tomatoes',
+  },
+  {
+    id: 'card-9',
+    columnId: 'column-5',
+    title: 'Chicken',
+  },
+  {
+    id: 'card-10',
+    columnId: 'column-6',
+    title: 'Cheese',
+  },
+  {
+    id: 'card-11',
+    columnId: 'column-7',
+    title: 'Dusting',
+  },
+  {
+    id: 'card-12',
+    columnId: 'column-8',
+    title: 'Vacuuming',
+  },
+  {
+    id: 'card-13',
+    columnId: 'column-8',
+    title: 'Cooking',
   },
 ];
 
